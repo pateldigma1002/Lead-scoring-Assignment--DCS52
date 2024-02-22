@@ -1,2 +1,2 @@
-# Lead-scoring-Assignment--DCS52
+# Lead-scoring-Assignment
 An online education website analysis repository
